@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">200</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">28b8bce1-e9c8-4eea-9751-446c79815420</dc:identifier>
+        <dc:title>The Grand Alliance</dc:title>
+        <dc:creator opf:file-as="Churchill, Winston" opf:role="aut">Winston Churchill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.40.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-31T16:00:00+00:00</dc:date>
+        <dc:publisher>RosettaBooks</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B003XVYLG2</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>British</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Military</dc:subject>
+        <dc:subject>Non-Fiction</dc:subject>
+        <dc:subject>Non-Kobo</dc:subject>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>War</dc:subject>
+        <dc:subject>World War II</dc:subject>
+        <meta content="{&quot;Winston Churchill&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Winston Churchill World War II Collection" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="2015-10-03T15:15:23+00:00" name="calibre:timestamp"/>
+        <meta content="Grand Alliance, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Grand Alliance, The - Winston Churchill.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

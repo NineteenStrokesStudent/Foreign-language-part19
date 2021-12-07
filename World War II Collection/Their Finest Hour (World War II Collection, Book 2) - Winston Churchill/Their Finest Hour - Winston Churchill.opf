@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">199</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">90a3f0a2-9467-4680-b8ce-893f91666cd3</dc:identifier>
+        <dc:title>Their Finest Hour</dc:title>
+        <dc:creator opf:file-as="Churchill, Winston" opf:role="aut">Winston Churchill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.40.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-06-11T10:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;None&lt;/p&gt; &lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;The eight uneasy, dangerous months from May to December 1940, as Britain stands isolated and Germany follows its war path. &lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;Winston S. Churchill (1874-1965) has been called by historians "the man of the twentieth century." Prime Minister of Great Britain (1940-1945), Churchill won the Nobel prize for literature in 1953.&lt;/p&gt; &lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin UK</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780141441733</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>British</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>History</dc:subject>
+        <dc:subject>Military</dc:subject>
+        <dc:subject>Non-Fiction</dc:subject>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>War</dc:subject>
+        <dc:subject>World War II</dc:subject>
+        <meta content="{&quot;Winston Churchill&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Winston Churchill World War II Collection" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="2015-10-03T14:05:48.776000+00:00" name="calibre:timestamp"/>
+        <meta content="Their Finest Hour" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Their Finest Hour - Winston Churchill.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

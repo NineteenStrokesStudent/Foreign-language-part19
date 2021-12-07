@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2720</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">24b58939-177d-4743-b1f7-19ee3e8c5cb4</dc:identifier>
+        <dc:title>Think Like a Freak: The Authors of Freakonomics Offer to Retrain Your Brain</dc:title>
+        <dc:creator opf:file-as="Levitt, Steven D." opf:role="aut">Steven D. Levitt</dc:creator>
+        <dc:creator opf:file-as="Levitt, Steven D." opf:role="aut">Stephen J. Dubner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.42) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-05-12T00:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;Uploaded by [StormRG]&lt;/b&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780062218360</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00BATINVS</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Steven D. Levitt&quot;: &quot;&quot;, &quot;Stephen J. Dubner&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="0.0" name="calibre:rating"/>
+        <meta content="2014-05-13T09:03:26+00:00" name="calibre:timestamp"/>
+        <meta content="Think Like a Freak: The Authors of Freakonomics Offer to Retrain Your Brain" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Think Like a Freak_ The Authors of Freakonomics Offer to Retrain Your Brain - Steven D. Levitt &amp; Stephen J. Dubner.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

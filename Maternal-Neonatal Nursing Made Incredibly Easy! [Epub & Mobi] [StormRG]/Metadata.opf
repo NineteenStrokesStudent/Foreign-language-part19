@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cd54ae9b-1620-407c-8a48-181aacf0ee21</dc:identifier>
+        <dc:title>Maternal-Neonatal Nursing Made Incredibly Easy! (Incredibly Easy! Series®)</dc:title>
+        <dc:creator opf:file-as="Springhouse" opf:role="aut">Springhouse</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.42) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-14T14:00:00+00:00</dc:date>
+        <dc:publisher>Lippincot (Wolters Kluwer Health)</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B008Y68NWO</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Springhouse&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-06-24T05:53:54+00:00" name="calibre:timestamp"/>
+        <meta content="Maternal-Neonatal Nursing Made Incredibly Easy! (Incredibly Easy! Series®)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Maternal-Neonatal Nursing Made Incredibly Easy! (Incredibly Easy! Series(r)) - Springhouse.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

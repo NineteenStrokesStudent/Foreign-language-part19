@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">649</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fce1e8d2-cf88-4eee-860c-8a664aeeb758</dc:identifier>
+        <dc:title>The Silkworm</dc:title>
+        <dc:creator opf:file-as="Galbraith, Robert" opf:role="aut">Robert Galbraith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.40.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-06-18T16:00:00+00:00</dc:date>
+        <dc:publisher>Little, Brown Book Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781405514972</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">76a9afd7-0f12-404e-9159-3c8a25ffe109</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Robert Galbraith&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-06-19T02:26:39.705000+00:00" name="calibre:timestamp"/>
+        <meta content="Silkworm, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
